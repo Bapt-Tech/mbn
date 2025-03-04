@@ -1,0 +1,15 @@
+/workspaces/mbn/Say/obj/Debug/net8.0/Say.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/mbn/Say/obj/Debug/net8.0/Say.AssemblyInfoInputs.cache
+/workspaces/mbn/Say/obj/Debug/net8.0/Say.AssemblyInfo.cs
+/workspaces/mbn/Say/obj/Debug/net8.0/Say.csproj.CoreCompileInputs.cache
+/workspaces/mbn/Say/obj/Debug/net8.0/Say.sourcelink.json
+/workspaces/mbn/Say/bin/Debug/net8.0/Say
+/workspaces/mbn/Say/bin/Debug/net8.0/Say.deps.json
+/workspaces/mbn/Say/bin/Debug/net8.0/Say.runtimeconfig.json
+/workspaces/mbn/Say/bin/Debug/net8.0/Say.dll
+/workspaces/mbn/Say/bin/Debug/net8.0/Say.pdb
+/workspaces/mbn/Say/obj/Debug/net8.0/Say.dll
+/workspaces/mbn/Say/obj/Debug/net8.0/refint/Say.dll
+/workspaces/mbn/Say/obj/Debug/net8.0/Say.pdb
+/workspaces/mbn/Say/obj/Debug/net8.0/Say.genruntimeconfig.cache
+/workspaces/mbn/Say/obj/Debug/net8.0/ref/Say.dll

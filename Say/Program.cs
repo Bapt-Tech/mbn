@@ -1,8 +1,9 @@
 ﻿try
 {
-    throw new ArgumentOutOfRangeException(nameof(shapeAmount), "Amount of shapes must be positive.");
+    int shapeAmount = -1;
+    //throw new DivideByZeroException();
 }
 catch (Exception ex)
-{
-    Console.WriteLine(ex.Message);
+{   
+    Console.WriteLine($"An error occured : {ex.Message}. Please try again.");
 }
